@@ -11,6 +11,7 @@ repo/one time process).
 10. Once the repository is created on GitHub, copy the following command and paste it 
 in terminal.
     git remote add origin https://github.com/amprabhleenkaur/march-git.git
-11. Then in the terminal, copy and paste another command.
+11. Then in the terminal, copy and paste another command as follows:
+    git push --set-upstream origin main
 12. From GitHub, copy the token, paste in terminal and push the code with git push.
 13. Now go to 'terminal' of IntelliJ

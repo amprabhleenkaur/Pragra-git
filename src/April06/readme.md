@@ -5,4 +5,3 @@
 5. Java will not create a default constructor if we have parameterized constructor.
 6. The default constructor can be called from another constructor using this().
 7. The parameterised constructor can be called from another constructor using this(arg1, arg2, ...).
-8. 

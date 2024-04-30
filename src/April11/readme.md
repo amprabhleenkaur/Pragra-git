@@ -2,9 +2,10 @@
 committed to main branch.
 2. We create a branch using git branch branchName
 3. To switch to that branch we do, git switch/checkout branchName
-4. To know all the branches, do git branch
+4. To know all the branches, do git branch 
 5. To create and switch to new branch, we do git checkout -b branchName
 6. To see working of different branches, we have to commit them first.
 7. To delete a branch, we do git branch -d branchName but make sure we are already on a 
 different branch while deleting the other branch.
-8. 
+8. To know remote branches as well, do git branch -a   -> (a for all)
+9. 
